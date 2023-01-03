@@ -10,5 +10,5 @@
                                                      b) Associativity
 - 5) Eliminating the ambiguity by checking whether it left recursive or right recursive.
 - 6) Levels :: lower-most level -> Higher Precedence ; higher-most leve -> Lower Precedence.
-- 7) Left Recursive :: If MSB of RHS of the given Production rules is same as LHS.
-     Right Recursive :: If LSB of RHS of the given Production rules is same as LHS.
+- 7) Left Recursive :: If MSB of RHS of the given Grammar is same as LHS.
+     Right Recursive :: If LSB of RHS of the given Grammar is same as LHS.
