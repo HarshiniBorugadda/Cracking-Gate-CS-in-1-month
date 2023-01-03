@@ -10,6 +10,7 @@ Here I will update my every day journey for Gate prep and topics I have complete
 - Doing step 1 and step 2 Parallely whenver needed.
 - Once done with few chapters doing the step 3.
 - Trying cover 2 chapters from atmost 3 subjects/day (So as maintain efficiency and broad coverage).
+- step 4 at the end of the day.
 - Repeating these until I'm done with the subject.
 - Note: I'm trying to cover all the subjects in Breadth and Max. possible depth I can do in 1 month.
 
