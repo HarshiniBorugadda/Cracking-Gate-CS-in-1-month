@@ -1,0 +1,14 @@
+# Started Compiler Design 
+
+## Completed intro part and Lexical Analysis.
+- Important things to be noted in this are phases of compiler, their functionality, and the outputs they produce. Symbol table, error checking and error recovery in Lexical Analysis.
+- In Lexical Analysis (O/p -> Stream of tokens), Possible Questions are --
+- 1) tokens counting
+- 2) Grammar (V,T,P,S)
+- 3) Checking grammar is ambiguous or not
+- 4) Reasons for ambiguity happens due to 2 factors: a) Precedence 
+                                                     b) Associativity
+- 5) Eliminating the ambiguity by checking whether it left recursive or right recursive.
+- 6) Levels :: lower-most level -> Higher Precedence ; higher-most leve -> Lower Precedence.
+- 7) Left Recursive :: If MSB of RHS of the given Production rules is same as LHS.
+     Right Recursive :: If LSB of RHS of the given Production rules is same as LHS.
