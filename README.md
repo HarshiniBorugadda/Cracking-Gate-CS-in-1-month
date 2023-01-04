@@ -17,3 +17,4 @@ Here I will update my every day journey for Gate prep and topics I have complete
 
 Consider giving it a ⭐ if you find it helpful.
 Cheers and All the Best Gate Aspirants😊
+## GATE CS 2023 Date:04.02.2023 [9:30 A.M. - 12:30 P.M.]
